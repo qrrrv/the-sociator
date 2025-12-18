@@ -25,7 +25,7 @@
 ### 1. Клонирование и Подготовка
 
 ```bash
-git clone [ВАШ_РЕПОЗИТОРИЙ]
+git clone https://github.com/qrrrv/the-sociator.git
 cd дайвинчик
 ```
 
